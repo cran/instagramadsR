@@ -1,0 +1,15 @@
+36477fd8cb2dfadfb650217956aaa617 *DESCRIPTION
+861600adcadbe4e849b8eec3c8a086de *NAMESPACE
+7f447678d0fbd59c4e8e0edb49f8425b *NEWS.md
+7e61c2865dc9e0e536dac4a73dff7b3b *R/fetch_instagramads.R
+4b48ed5dfdb5c60c46856acde94bcac7 *R/my_instagramads_data.R
+911ced9d131c0b94849cd65804f336c6 *README.md
+77001896a77d1cb481ff42b2a5411b1a *build/vignette.rds
+8450c87f93d6d84090263174986c78d9 *data/my_instagramads_data.RData
+3b69dd63fdc55450e2f4e4a1940ac75b *inst/doc/tutorial.R
+db6c1d2693e1cc97be82717e913498a6 *inst/doc/tutorial.Rmd
+75b12e7c250af7b675e5bb6068d205a5 *inst/doc/tutorial.html
+36e5e241228ecf60ae55e9ffc2ad567e *man/fetch_instagramads.Rd
+3791648036c22e174bfb97ca018d88ca *man/my_instagramads_data.Rd
+8450c87f93d6d84090263174986c78d9 *vignettes/my_instagramads_data.RData
+db6c1d2693e1cc97be82717e913498a6 *vignettes/tutorial.Rmd
